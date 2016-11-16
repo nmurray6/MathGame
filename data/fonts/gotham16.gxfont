@@ -1,0 +1,13 @@
+//Temp file created by AS Font Builder (User:  At: 05/10/16 15:28:16)
+//Command Line:
+//:  -fontdesc "0;-24;0;0;0;400;0;0;0;0;10;2;1;50;Gotham Bold" 0 4 0  -pad 0 0 
+//:  -col #FFFFFF -shadow 0 -spacing 4 -force16 0
+//:  -userheight 26
+
+CIwGxFont
+{
+	utf8 1
+	image gotham16.tga
+	charmap " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ"
+
+}
